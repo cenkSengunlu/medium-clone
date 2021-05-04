@@ -1,0 +1,27 @@
+.bg-yellow{
+    background-color: #FFC017;
+}
+.border-bottom-dark{
+    border-bottom: 1px solid rgba(41,41,41,1);
+}
+.trending{
+    font-size:13px; 
+    color:#757575
+}
+.discover-button{
+    margin:0 8px 8px 0;
+    padding: 8px 16px;
+    border: 1px solid rgba(230, 230, 230, 1);
+    display: inline-block;
+    color: #757575;
+    font-size:13px;
+}
+.discover-button:hover{
+    color: #757575;
+}
+.list-inline-item{
+    margin-right:0px !important;
+}
+body{
+    padding-top:63px;
+}
